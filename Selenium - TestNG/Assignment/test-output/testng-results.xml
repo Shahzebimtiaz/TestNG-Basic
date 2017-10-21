@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44997" started-at="2017-09-13T05:36:40Z" finished-at="2017-09-13T05:37:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44997" started-at="2017-09-13T05:36:40Z" finished-at="2017-09-13T05:37:25Z">
+      <class name="com.Stella.Assignment.ValidatorClass2">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Stella.Assignment.ValidatorClass2@26be92ad]" name="setup" is-config="true" duration-ms="7172" started-at="2017-09-13T10:36:40Z" finished-at="2017-09-13T10:36:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="NewUserRegistration()[pri:0, instance:com.Stella.Assignment.ValidatorClass2@26be92ad]" name="NewUserRegistration" duration-ms="10072" started-at="2017-09-13T10:36:47Z" finished-at="2017-09-13T10:36:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewUserRegistration -->
+        <test-method status="PASS" signature="SignInValidator()[pri:1, instance:com.Stella.Assignment.ValidatorClass2@26be92ad]" name="SignInValidator" duration-ms="10242" started-at="2017-09-13T10:36:57Z" finished-at="2017-09-13T10:37:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignInValidator -->
+        <test-method status="PASS" signature="FlightSearchingAndBooking()[pri:2, instance:com.Stella.Assignment.ValidatorClass2@26be92ad]" name="FlightSearchingAndBooking" duration-ms="16784" started-at="2017-09-13T10:37:07Z" finished-at="2017-09-13T10:37:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FlightSearchingAndBooking -->
+        <test-method status="PASS" signature="cleanup()[pri:0, instance:com.Stella.Assignment.ValidatorClass2@26be92ad]" name="cleanup" is-config="true" duration-ms="693" started-at="2017-09-13T10:37:24Z" finished-at="2017-09-13T10:37:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+      </class> <!-- com.Stella.Assignment.ValidatorClass2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
